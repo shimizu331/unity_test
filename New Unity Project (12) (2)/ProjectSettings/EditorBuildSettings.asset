@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2160ae7b3b7cb7e4b905e4097255d6c3
+  - enabled: 1
+    path: Assets/Scenes/RightHand.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LeftHand.unity
+    guid: 0ff36a60bb4f4574e968ecb976c19245
+  m_configObjects: {}
